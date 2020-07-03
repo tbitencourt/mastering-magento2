@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e5bef27-3b9f-4491-aa11-225c662875b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.docker/bin/install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mastering-magento2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -546,7 +547,7 @@
       <workItem from="1593628467614" duration="5250000" />
       <workItem from="1593646387021" duration="6083000" />
       <workItem from="1593694033986" duration="1219000" />
-      <workItem from="1593732322938" duration="4030000" />
+      <workItem from="1593732322938" duration="4345000" />
     </task>
     <servers />
   </component>
@@ -563,6 +564,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1663" y="75" width="666" height="936" key="#php/Dockerfile" timestamp="1593694876526">
